@@ -1,0 +1,12 @@
+addSubDomain({
+  description: 'pet project',
+  domain: 'is-an.app',
+  subdomain: 'ps',
+  owner: 
+    email: 'chk.mailbox@gmail.com',
+  },
+  record: {
+    A: '136.243.103.179',
+  },
+  proxy: false,
+})
